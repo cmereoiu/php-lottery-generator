@@ -1,2 +1,3 @@
-# php-lottery-generator
- PHP Lottery number generator for German lottery
+# PHP Lottery number generator for German lottery
+php-lottery-generator
+ 
